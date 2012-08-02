@@ -1,7 +1,10 @@
 jquery.sparklines-rails
 =======================
 
-Packages jquery.sparklines library as a Gem for Ruby on Rails
+Sparklines are small but intense charts. jquery.sparklines generates a range 
+of cool sparklines using JavaScript. 
+
+This project packages jquery.sparklines library as a Gem for Ruby on Rails.
 
 License: New BSD License
 
