@@ -1,11 +1,11 @@
-jquery-sparklines-rails
+jquery-sparkline-rails
 =======================
 
 [Sparklines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR)
 are small but intense charts. jquery.sparklines generates a range
 of cool sparklines using JavaScript. 
 
-This project packages [jquery.sparklines](https://github.com/gwatts/jquery.sparkline)
+This project packages [jquery.sparkline](https://github.com/gwatts/jquery.sparkline)
 as a [Gem](http://rubygems.org/) for [Ruby](http://www.ruby-lang.org) on
 [Rails](http://rubyonrails.org/).
 
@@ -13,14 +13,14 @@ License: New [BSD License](http://opensource.org/licenses/bsd-3-clause)
 
 Rails: 3.1+
 
-jquery-sparklines-rails 2.0 includes jquery.sparklines 2.0
+jquery-sparkline-rails 2.0 includes jquery.sparkline 2.0
 
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-sparklines-rails'
+    gem 'jquery-sparkline-rails'
 
 And then execute:
 
@@ -28,7 +28,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jquery-sparklines-rails
+    $ gem install jquery-sparkline-rails
 
 ## Usage
 
