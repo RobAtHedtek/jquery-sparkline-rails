@@ -1,7 +1,8 @@
 jquery-sparklines-rails
 =======================
 
-Sparklines are small but intense charts. jquery.sparklines generates a range 
+[Sparklines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR)
+are small but intense charts. jquery.sparklines generates a range
 of cool sparklines using JavaScript. 
 
 This project packages [jquery.sparklines](https://github.com/gwatts/jquery.sparkline)
