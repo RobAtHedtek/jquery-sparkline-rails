@@ -1,4 +1,4 @@
-jquery.sparklines-rails
+jquery-sparklines-rails
 =======================
 
 Sparklines are small but intense charts. jquery.sparklines generates a range 
@@ -9,6 +9,9 @@ This project packages jquery.sparklines library as a Gem for Ruby on Rails.
 License: New BSD License
 
 Rails: 3.1+
+
+jquery-sparklines-rails 2.0 includes jquery.sparklines 2.0
+
 
 ## Installation
 
