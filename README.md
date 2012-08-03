@@ -8,11 +8,13 @@ This project packages jquery.sparklines library as a Gem for Ruby on Rails.
 
 License: New BSD License
 
+Rails: 3.1+
+
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery.sparklines_rails'
+    gem 'jquery-sparklines-rails'
 
 And then execute:
 
@@ -20,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jquery.sparklines_rails
+    $ gem install jquery-sparklines-rails
 
 ## Usage
 

@@ -1,9 +1,2 @@
-require "jquery-sparklines-rails/version"
-
-module Jquery
-  module Sparklines
-    module Rails
-      # Your code goes here...
-    end
-  end
-end
+require "jquery/sparklines/rails/version"
+require "jquery/sparklines/rails/engine"
