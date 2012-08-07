@@ -1,5 +1,8 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/jquery/sparkline/rails/version', __FILE__)
+$:.push File.expand_path('../lib/', __FILE__)
+
+# Maintain your gem's version:
+require 'lib/jquery/sparkline/rails/version'
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Robert Burrell Donkin"]
@@ -8,12 +11,14 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{jquery.sparkline for Rails}
   gem.homepage      = "https://github.com/RobAtHedtek/jquery.sparkline-rails"
 
-  gem.files         = `git ls-files`.split($\)
+  gem.files         = Dir["{app,config,db,lib, vendor}/**/*"] + ["LICENSE", "Rakefile", "README.md"]
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
-  gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
+  gem.test_files    = Dir["test/**/*"]
   gem.name          = "jquery-sparkline-rails"
   gem.require_paths = ["lib"]
   gem.version       = Jquery::Sparkline::Rails::VERSION
+
+  gem.add_dependency "rails", "~> 3.2.2"
 
   gem.add_dependency "jquery-rails"
 end
