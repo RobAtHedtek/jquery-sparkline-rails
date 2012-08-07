@@ -1,3 +1,5 @@
+require 'rails'
+
 module Jquery
   module Sparkline
     if defined?(::Rails) and ::Rails.version >= "3.1"
