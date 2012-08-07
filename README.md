@@ -20,7 +20,8 @@ jquery-sparkline-rails 2.0 includes jquery.sparkline 2.0
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-sparkline-rails'
+    gem 'jquery-sparkline-rails', git: "https://github.com/RobAtHedtek/jquery-sparkline-rails.git"
+
 
 And then execute:
 
