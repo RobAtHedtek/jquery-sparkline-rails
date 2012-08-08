@@ -2,7 +2,7 @@
 $:.push File.expand_path('../lib/', __FILE__)
 
 # Maintain your gem's version:
-require 'lib/jquery/sparkline/rails/version'
+require 'jquery/sparkline/rails/version'
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Robert Burrell Donkin"]
