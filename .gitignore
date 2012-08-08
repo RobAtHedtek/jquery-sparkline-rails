@@ -12,6 +12,8 @@ test/tmp
 test/version_tmp
 tmp
 
+test/dummy/log
+
 # YARD artifacts
 .yardoc
 _yardoc
