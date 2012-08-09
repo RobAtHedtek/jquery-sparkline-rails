@@ -35,13 +35,13 @@ Or install it yourself as:
 
 Just add a `require 'sparklines'` towards the top of your source in the usual fashion.
 
-Coffeescript
+For Coffeescript
 
-   #= require 'sparklines'
+    #= require 'sparklines'
 
-Javascript
+For JavaScript
 
-  //= require 'sparklines'
+    //= require 'sparklines'
 
 ## Contributing
 
