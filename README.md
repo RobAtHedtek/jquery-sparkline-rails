@@ -6,8 +6,7 @@ are small but intense charts. jquery.sparklines generates a range
 of cool sparklines using JavaScript. 
 
 This project packages [jquery.sparkline](https://github.com/gwatts/jquery.sparkline)
-- a great little sparkline library -
-as a [Gem](http://rubygems.org/) for [Ruby](http://www.ruby-lang.org) on
+- a great little sparkline library - as a [Gem](http://rubygems.org/) for [Ruby](http://www.ruby-lang.org) on
 [Rails](http://rubyonrails.org/).
 
 License: New [BSD License](http://opensource.org/licenses/bsd-3-clause)
