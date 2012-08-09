@@ -8,7 +8,8 @@ of cool sparklines using JavaScript.
 This project packages [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) -
 a great little sparkline library - as a [Gem](http://rubygems.org/) for [Ruby](http://www.ruby-lang.org) on
 [Rails](http://rubyonrails.org/). Great for keeping
-your pipe [clean and tidy](http://devblog.hedtek.com/2012/08/tidy-assets-on-rails.html)
+your [pipe](http://guides.rubyonrails.org/asset_pipeline.html}
+[clean and tidy](http://devblog.hedtek.com/2012/08/tidy-assets-on-rails.html)
 
 License: New [BSD License](http://opensource.org/licenses/bsd-3-clause)
 
