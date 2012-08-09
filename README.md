@@ -13,7 +13,7 @@ your [pipe](http://guides.rubyonrails.org/asset_pipeline.html)
 
 License: New [BSD License](http://opensource.org/licenses/bsd-3-clause)
 
-Rails: 3.1+
+Rails: 3.2 and up
 
 jquery-sparkline-rails 2.0 includes jquery.sparkline 2.0
 
