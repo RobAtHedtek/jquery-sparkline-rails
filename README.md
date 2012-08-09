@@ -33,7 +33,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just add a `require 'sparklines'` towards the top of your source in the usual fashion.
+
+Coffeescript
+
+   #= require 'sparklines'
+
+Javascript
+
+  //= require 'sparklines'
 
 ## Contributing
 
