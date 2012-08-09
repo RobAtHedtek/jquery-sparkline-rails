@@ -2,7 +2,7 @@ jquery-sparkline-rails
 =======================
 
 [Sparklines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR)
-are small but intense charts. jquery.sparklines generates a range
+are small but intense charts. `jquery.sparklines` generates a range
 of cool sparklines using JavaScript. 
 
 This project packages [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) -
@@ -11,11 +11,11 @@ a great little sparkline library - as a [Gem](http://rubygems.org/) for [Ruby](h
 your [pipe](http://guides.rubyonrails.org/asset_pipeline.html)
 [clean and tidy](http://devblog.hedtek.com/2012/08/tidy-assets-on-rails.html)
 
-License: New [BSD License](http://opensource.org/licenses/bsd-3-clause)
+License: New [BSD License](http://opensource.org/licenses/bsd-3-clause) (just like `jquery.sparkline`)
 
 Rails: 3.2 and up
 
-jquery-sparkline-rails 2.0 includes jquery.sparkline 2.0
+`jquery-sparkline-rails` 2.0 includes `jquery.sparkline` 2.0
 
 
 ## Installation
