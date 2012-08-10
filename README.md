@@ -3,7 +3,7 @@ jquery-sparkline-rails
 
 [Sparklines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR)
 are small but intense charts. `jquery.sparklines` generates a range
-of cool sparklines using JavaScript. 
+of cool sparklines using JavaScript.
 
 This project packages [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) -
 a great little sparkline library - as a [Gem](http://rubygems.org/) for [Ruby](http://www.ruby-lang.org) on

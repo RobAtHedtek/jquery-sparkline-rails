@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["rob@hedtek.com"]
   gem.description   = %q{Sparklines are small but intense charts. This gem packages jquery.sparkline for Rails.}
   gem.summary       = %q{jquery.sparkline for Rails}
-  gem.homepage      = "https://github.com/RobAtHedtek/jquery.sparkline-rails"
+  gem.homepage      = "https://github.com/RobAtHedtek/jquery-sparkline-rails"
 
   gem.files         = Dir["{app,config,db,lib, vendor}/**/*"] + ["LICENSE", "Rakefile", "README.md"]
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
