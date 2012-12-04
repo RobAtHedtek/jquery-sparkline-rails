@@ -2500,8 +2500,14 @@
     // Setup a very simple "virtual canvas" to make drawing the few shapes we need easier
     // This is accessible as $(foo).simpledraw()
 
-    if ($.browser.msie && !document.namespaces.v) {
+    if ($.browser.msie && document.namespaces) {
+      try{
+        if(document.namespaces.v == undefined){
+          document.namespaces.add('v', 'urn:schemas-microsoft-com:vml', '#default#VML');
+        }         
+      }catch(e){
         document.namespaces.add('v', 'urn:schemas-microsoft-com:vml', '#default#VML');
+      }
     }
 
     if ($.browser.hasCanvas === undefined) {
