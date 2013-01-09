@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.homepage      = "https://github.com/RobAtHedtek/jquery-sparkline-rails"
 
   gem.files         = `git ls-files`.split("\n")
-  gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
+  gem.executables   = `git ls-files -- bin/*`.split("\n").map { |f| File.basename(f) }
   gem.test_files    = Dir["test/**/*"]
   gem.name          = "jquery-sparkline-rails"
   gem.require_path  = 'lib'
