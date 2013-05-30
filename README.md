@@ -15,7 +15,7 @@ License: New [BSD License](http://opensource.org/licenses/bsd-3-clause) (just li
 
 Rails: 3.2 and up
 
-`jquery-sparkline-rails` 2.0 includes `jquery.sparkline` 2.0
+`jquery-sparkline-rails` 2.1.1 includes `jquery.sparkline` 2.1.1
 
 
 ## Installation
