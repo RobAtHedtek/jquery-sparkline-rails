@@ -39,11 +39,11 @@ Just add a `require 'sparklines'` towards the top of your source in the usual fa
 
 For Coffeescript
 
-    #= require 'sparklines'
+    #= require 'jquery.sparklines'
 
 For JavaScript
 
-    //= require 'sparklines'
+    //= require 'jquery.sparklines'
 
 ## Contributing
 
