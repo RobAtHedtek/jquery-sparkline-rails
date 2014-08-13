@@ -22,7 +22,7 @@ Rails: 3.2 and up
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-sparkline-rails', git: "https://github.com/RobAtHedtek/jquery-sparkline-rails.git"
+    gem 'jquery-sparkline-rails', git: "https://github.com/cubus/jquery-sparkline-rails.git"
 
 
 And then execute:
